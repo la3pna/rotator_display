@@ -72,7 +72,7 @@ class RotatorDisplay
       borderwidth 3
       background 'black'
       foreground 'yellow'
-      font TkFont.new("family" => 'Helvetica', "size" => 36, "weight" => 'bold')
+      font TkFont.new("family" => 'Comic Sans MS', "size" => 36, "weight" => 'bold')
       pack('fill' => 'x', 'expand' => 1, 'side' => 'bottom')
     }
   end
